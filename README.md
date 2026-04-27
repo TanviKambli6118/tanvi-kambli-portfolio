@@ -34,5 +34,6 @@ To continuously improve my skills in Data Analysis and Web Development, and buil
 ## 📬 Contact
 Feel free to connect or reach out through the contact form on the website.
 
-## 📸 Preview
-(Add your screenshot here)
+
+
+
