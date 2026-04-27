@@ -14,12 +14,7 @@ I am a Data Analyst and Web Developer with a strong interest in Data Science and
 I enjoy working with data, discovering insights, and building user-friendly web applications.
 
 ## 🛠️ Technologies Used
-- HTML, CSS, JavaScript  
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- SQL  
-- Excel, Power BI  
+- HTML, CSS 
 
 ## 📊 Projects Included
 - Student Placement Analysis  
